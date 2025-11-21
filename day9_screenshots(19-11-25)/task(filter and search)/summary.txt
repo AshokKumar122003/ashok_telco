@@ -1,0 +1,4 @@
+grep - is used to search and filter lines matching a pattern.
+awk -  processes text using fields/columns, allowing conditions and formatted output.
+sort - arranges lines in order, and uniq - removes duplicates (usually after sorting).
+Using pipelines (`|`), you can combine them to build powerful filters, e.g., extracting, filtering, sorting, and summarizing data in one command.
